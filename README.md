@@ -1,42 +1,38 @@
-# 🧮 Calculadora de Impuestos
+# Calculadora de Impuestos
 
-Este proyecto es una **calculadora de impuestos** desarrollada en Python 🐍.
+Aplicación desarrollada en Python con interfaz gráfica que permite calcular impuestos a partir de datos ingresados por el usuario, facilitando la automatización de cálculos mediante una interacción visual.
 
-## 🧰 Requisitos
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![GUI](https://img.shields.io/badge/UI-Tkinter-purple)
+![Type](https://img.shields.io/badge/App-Desktop-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-* Python 3.x 🐍
+## Tecnologías
 
-## 🚀 Cómo usar
+| Tecnología           | Uso                  |
+| -------------------- | -------------------- |
+| Python               | Lógica de cálculo    |
+| Tkinter              | Interfaz gráfica     |
+| Lógica personalizada | Cálculo de impuestos |
 
-1. 🔽 Clona este repositorio:
 
-   ```bash
-   git clone https://github.com/MayraMoy/calculadora_impuestos.git
-   ```
+## Flujo de la aplicación
 
-2. 📂 Entra en la carpeta del proyecto:
+```text id="0h1c6s"
+[ Usuario ]
+     ↓
+[ Interfaz Tkinter ]
+     ↓
+[ Procesamiento ]
+     ↓
+[ Resultado en pantalla ]
+```
 
-   ```bash
-   cd calculadora_impuestos
-   ```
+## Contacto
 
-3. ▶️ Ejecuta el script:
+[![Email](https://img.shields.io/badge/✉️%20Email-mayrayazminmoyano%40gmail.com-ea4335?style=for-the-badge)](mailto:mayrayazminmoyano@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Mayra%20Yazmin%20Moyano-0077B5?style=for-the-badge)](https://linkedin.com/in/mayra-yazmin-moyano)
 
-   ```bash
-   python calculator.py
-   ```
-
-## 🙌 Contribuciones
-
-¡Las contribuciones son bienvenidas! 🎉
-Si quieres mejorar la calculadora o agregar nuevas funciones:
-
-* Haz un fork 🍴
-* Crea una nueva rama 🪄
-* Envía un Pull Request 📬
-
-## 📄 Licencia
-
-Este proyecto está bajo la licencia **MIT** 📝.
-Consulta el archivo [LICENSE](LICENSE) para más información.
 
